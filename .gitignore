@@ -1,0 +1,9 @@
+target/
+/data/
+/runs/
+/checkpoints/
+*.pt
+*.safetensors
+__pycache__/
+.venv/
+build/
